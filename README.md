@@ -3,7 +3,9 @@
 
 # Работа с модулем
 Для работы с модулем скачайте приложение OsmLifeSimulation, добавьте файл WaterSupplySystemSimulation.dll в ..\..\osmlifesimulation\OSMLS\modules. Для запуска клиентского приложения откроем в браузере ..\osmlifesimulation\WebClient\index.html. Делать это нужно при уже запущенном сервере, который запускается командами:
+
 cd osmlifesimulation
 cd OSMLS
 dotnet run.
+
 После чего откроется карта.
